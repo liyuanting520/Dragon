@@ -1,6 +1,0 @@
-this is a file of test1.txt
-<<<<<<< HEAD
-i'have modefied the test1.txt
-=======
-zhang branch modify test1.txt
->>>>>>> zhang
